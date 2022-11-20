@@ -1,0 +1,6 @@
+This is the line one in the text file.
+This is the 2nd line.
+This is the 3rd line.
+tab after	tab finish.
+This is the 4th line.
+Linux provides many commands to manipulate text contents. 
